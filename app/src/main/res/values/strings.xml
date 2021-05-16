@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Galaxy Swiss Bourdin</string>
+    <string name="welcome_msg">Bienvenue sur mon application</string>
+    <string name="points_msg"> Points : 0</string>
+    <string name="textview">TextView</string>
+    <string name="chargement">Charger les données</string>
+</resources>
